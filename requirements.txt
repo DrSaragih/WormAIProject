@@ -9,4 +9,3 @@ Pillow == 10.0.1
 feature_engine == 1.6.2
 streamlit-option-menu==0.3.12
 roboflow == 1.1.31
-pickle == 4.0
